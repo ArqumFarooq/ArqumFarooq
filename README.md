@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 **About me**:
             <br />I've done Bachelor’s degree in Computer Sciences from the **Government College University**, Lahore, Pakistan. I like to explore new technologies and develop software solutions and quick hacks.  
 
-👉 Coding enthusiastic 👨‍🏫 | Love to Code🤩 <br />
-👉 Web Dev 😃 | Front End😎 <br />
-👉 Opensource contributor 💥 | Freelancer 🗯 <br />
+👉 Coding enthusiastic 👨‍🏫  <br />
+👉 Web Dev 😎  <br />
+👉 Opensource contributor 💥 <br />
 👉 Learn to code and improve my skills🥇🏅💫 <br />
               
 - 🔭 I’m currently working on Asp.Net MVC  
