@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArqumFarooq)](https://github.com/ryo-ma/github-profile-trophy)
 
 ⚙️  **GitHub Analytics**:
-
 <br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ArqumFarooq&show_icons=true&count_private=true)  
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ArqumFarooq)  
