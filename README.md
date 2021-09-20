@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫 You can shoot me an email at **arqumfarooq1@gmail.com**! I'll try to respond as soon as I can. 
 - ⚡ Fun fact: Playing Games, Traveling  
 
-⚡⚡⚡**Tech Stack**:    ![Profile views](https://gpvc.arturio.dev/ArqumFarooq) 
+⚡⚡⚡**Tech Stack**:   &nbsp;&nbsp; ![Profile views](https://gpvc.arturio.dev/ArqumFarooq) 
 
 ![C](https://camo.githubusercontent.com/02660457c8f38de2a1a51406de517602b06521304cb6b07030f5bf8ddef667ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432d3035313232413f7374796c653d666c6174266c6f676f3d43266c6f676f436f6c6f723d413842394343)
 ![C++](https://camo.githubusercontent.com/7d2d9f2c713c8bb81fb97575cb8fbaea86cca12f310356615f2f42c284256396/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3035313232413f7374796c653d666c6174266c6f676f3d43253242253242266c6f676f436f6c6f723d303035393943)
