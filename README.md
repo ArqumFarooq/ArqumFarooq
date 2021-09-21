@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 
 
 
-###                Hi there 👋, I'm Arqum
+###                Hi there 👋, I'm Arqum 
+   
 ####      ✨✨✨Associate Software Developer ✨✨✨
-                     ![Profile views](https://gpvc.arturio.dev/ArqumFarooq)
-
+   ![Profile views](https://gpvc.arturio.dev/ArqumFarooq)
+          
 <!--  ![Associate Software Developer](https://dev.to/social_previews/user/403437.png)-->
 
 **About me**:
