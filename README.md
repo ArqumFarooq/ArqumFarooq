@@ -15,13 +15,11 @@ Here are some ideas to get you started:
 
 
 ###                Hi there 👋, I'm Arqum 
-   
 ####      ✨✨✨Associate Software Developer ✨✨✨
-   ![Profile views](https://gpvc.arturio.dev/ArqumFarooq)
           
 <!--  ![Associate Software Developer](https://dev.to/social_previews/user/403437.png)-->
 
-**About me**:
+**About me**: ![Profile views](https://gpvc.arturio.dev/ArqumFarooq)
             <br />I've done Bachelor’s degree in Computer Sciences from the **Government College University**, Lahore, Pakistan. I like to explore new technologies and develop software solutions and quick hacks.  
 
 👉 Coding enthusiastic 👨‍🏫  <br />
