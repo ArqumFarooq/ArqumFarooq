@@ -19,7 +19,7 @@ Here are some ideas to get you started:
           
 <!--  ![Associate Software Developer](https://dev.to/social_previews/user/403437.png)-->
 
-**About me**: ![Profile views](https://gpvc.arturio.dev/ArqumFarooq)
+**About me**: 
             <br />I've done Bachelor’s degree in Computer Sciences from the **Government College University**, Lahore, Pakistan. I like to explore new technologies and develop software solutions and quick hacks.  
 
 👉 Coding enthusiastic 👨‍🏫  <br />
@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 - 💬 Feel free to reach out to me for some interesting discussion. 
 - 📫 You can shoot me an email at **arqumfarooq1@gmail.com**! I'll try to respond as soon as I can. 
 - ⚡ Fun fact: Playing Games, Traveling  
+
+![Profile views](https://gpvc.arturio.dev/ArqumFarooq)
 
 ⚡⚡⚡**Tech Stack**:   
 
