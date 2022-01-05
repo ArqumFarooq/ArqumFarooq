@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 👉 Learn to code and improve my skills🥇🏅💫 <br />
               
 - 🔭 I’m currently working on Asp.Net MVC & React.js .
-- 🌱 I’m currently learning DevOps & WebAPIs .
+- 🌱 I’m currently learning Azure & WebAPIs .
 - 👯 I'm on track for learning more about Web Development, Systems Design, and Cloud Architecture.
 - 💬 Feel free to reach out to me for some interesting discussion. 
 - 📫 You can shoot me an email at **arqumfarooq1@gmail.com**! I'll try to respond as soon as I can. 
