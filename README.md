@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started: 
 
-- 🔭 I’m currently working on ... ASP.NET MVC & React.Js
+- 🔭 I’m currently working on ... ASP.NET MVC.
 - 🌱 I’m currently learning ... JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... problem solving 
@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 👉 Opensource contributor 💥 <br />
 👉 Learn to code and improve my skills🥇🏅💫 <br />
               
-- 🔭 I’m currently working on Asp.Net MVC & React.js.
-- 🌱 I’m currently learning Azure & WebAPIs.
+- 🔭 I’m currently working on Asp.Net MVC & WebAPIs.
+- 🌱 I’m currently learning Azure & React.Js.
 - 👯 I'm on track for learning more about Web Development, Systems Design, and Cloud Architecture.
 - 💬 Feel free to reach out to me for some interesting discussion. 
 - 📫 You can shoot me an email at **arqumfarooq1@gmail.com**! I'll try to respond as soon as I can. 
