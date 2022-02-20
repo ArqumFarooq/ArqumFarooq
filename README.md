@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ###                Hi there 👋, I'm Arqum 
-####      ✨✨✨Associate Software Developer ✨✨✨
+####      ✨✨✨Software Engineer✨✨✨
           
 <!--  ![Associate Software Developer](https://dev.to/social_previews/user/403437.png)-->
 
