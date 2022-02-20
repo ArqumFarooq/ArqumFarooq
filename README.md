@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 👯 I'm on track for learning more about Web Development, Systems Design, and Cloud Architecture.
 - 💬 Feel free to reach out to me for some interesting discussion. 
 - 📫 You can shoot me an email at **arqumfarooq1@gmail.com**! I'll try to respond as soon as I can. 
-- ⚡ Fun fact: Playing Games, Traveling  
+- ⚡ Fun fact: Playing Games, Traveling, Hackathon.  
 
 ![Profile views](https://gpvc.arturio.dev/ArqumFarooq)
 
