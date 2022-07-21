@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--  ![Associate Software Developer](https://dev.to/social_previews/user/403437.png)-->
 
 **About me**: 
-           <br />I've done Bachelor’s degree in Computer Sciences from the **Government College University**, Lahore, Pakistan. I like to explore new technologies and develop software solutions and quick hacks.  
+           <br />I've done Bachelor’s degree in Computer Sciences from the **Government College University**, Lahore, Pakistan. I like to explore new technologies and develop software solutions.  
 
 👉 Coding enthusiastic 👨‍🏫  <br />
 👉 Web Dev 😎  <br />
