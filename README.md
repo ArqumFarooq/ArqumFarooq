@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... ASP.NET MVC.
 - 🌱 I’m currently learning ... JS
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ... problem solving 
+- 🤔 I’m looking for help with ... problem-solving 
 - 💬 Ask me about ...
 - 📫 How to reach me: ... @guthub/ArqumFarooq
 - 😄 Pronouns: ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ###                Hi there 👋, I'm Arqum 
-####      ✨✨✨Software Engineer✨✨✨
+####      ✨✨✨Sr.Software Engineer✨✨✨
           
 <!--  ![Associate Software Developer](https://dev.to/social_previews/user/403437.png)-->
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
               
 - 🔭 I’m currently working on Asp.Net MVC & WebAPIs.
 - 🌱 I’m currently learning Azure & React.Js.
-- 👯 I'm on track for learning more about Web Development, Systems Design, and Cloud Architecture.
+- 👯 I'm on track to learn more about Web Development, Systems Design, and Cloud Architecture.
 - 💬 Feel free to reach out to me for some interesting discussion. 
 - 📫 You can shoot me an email at **arqumfarooq1@gmail.com**! I'll try to respond as soon as I can. 
 - ⚡ Fun fact: Playing Games, Traveling, Hackathon.  
